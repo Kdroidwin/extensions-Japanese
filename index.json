@@ -15194,10 +15194,10 @@
   {
     "name": "Tachiyomi: Omega Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.omegascans",
-    "apk": "tachiyomi-en.omegascans-v1.4.41.apk",
+    "apk": "tachiyomi-en.omegascans-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17094,10 +17094,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.templescan",
-    "apk": "tachiyomi-en.templescan-v1.4.40.apk",
+    "apk": "tachiyomi-en.templescan-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17954,6 +17954,26 @@
         "lang": "en",
         "id": "5370949647322139237",
         "baseUrl": "https://yaoihentai.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Yaoihub",
+    "pkg": "eu.kanade.tachiyomi.extension.en.yaoihub",
+    "apk": "tachiyomi-en.yaoihub-v1.4.36.apk",
+    "lang": "en",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Yaoihub",
+        "lang": "en",
+        "id": "6718273076571980404",
+        "baseUrl": "https://yaoihub.com",
         "versionId": 1
       }
     ]
@@ -20648,10 +20668,10 @@
   {
     "name": "Tachiyomi: FR-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.frdashscan",
-    "apk": "tachiyomi-fr.frdashscan-v1.4.41.apk",
+    "apk": "tachiyomi-fr.frdashscan-v1.4.42.apk",
     "lang": "fr",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21068,10 +21088,10 @@
   {
     "name": "Tachiyomi: Perf Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.perfscan",
-    "apk": "tachiyomi-fr.perfscan-v1.4.23.apk",
+    "apk": "tachiyomi-fr.perfscan-v1.4.24.apk",
     "lang": "fr",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26376,10 +26396,10 @@
   {
     "name": "Tachiyomi: Mode Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.modescanlator",
-    "apk": "tachiyomi-pt.modescanlator-v1.4.23.apk",
+    "apk": "tachiyomi-pt.modescanlator-v1.4.24.apk",
     "lang": "pt-BR",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
