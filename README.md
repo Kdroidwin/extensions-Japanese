@@ -1,9 +1,11 @@
+[日本語](https://github.com/Kdroidwin/extensions-Japanese/blob/repo/README%20-ja.md)
+
+
 ### Please give the repo a :star:
 
 This is a backup.
 It is synchronized periodically (about several times a week) from the upstream repository.
 
-[日本語](https://github.com/Kdroidwin/extensions-Japanese/blob/repo/README%20-ja.md)
 
 
 | Build | Support Server |
