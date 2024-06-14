@@ -26,4 +26,4 @@ Add repository(リポジトリの追加)を押してください。
 
 
 # 他のやり方
-上記のフォークのいずれかを使用していない場合は、 [リストページ]から手動でダウンロードしてください。(https://keiyoushi.github.io/extensions/)
+上記のフォークのいずれかを使用していない場合は、 [リストページ](https://keiyoushi.github.io/extensions/)から手動でダウンロードしてください。
