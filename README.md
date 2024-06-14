@@ -1,5 +1,7 @@
 ### Please give the repo a :star:
 
+これはバックアップリポジトリです。
+
 [日本語](https://github.com/Kdroidwin/extensions-Japanese/blob/repo/README%20-ja.md)
 
 
