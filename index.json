@@ -6769,10 +6769,10 @@
   {
     "name": "Tachiyomi: Thunder Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.thunderscans",
-    "apk": "tachiyomi-all.thunderscans-v1.4.32.apk",
+    "apk": "tachiyomi-all.thunderscans-v1.4.33.apk",
     "lang": "all",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6781,7 +6781,7 @@
         "name": "Thunder Scans",
         "lang": "ar",
         "id": "3209001028102012989",
-        "baseUrl": "https://ar-thunderepic.com",
+        "baseUrl": "https://thunderscans.com",
         "versionId": 1
       },
       {
@@ -8340,10 +8340,10 @@
   {
     "name": "Tachiyomi: Team X",
     "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
-    "apk": "tachiyomi-ar.teamx-v1.4.17.apk",
+    "apk": "tachiyomi-ar.teamx-v1.4.18.apk",
     "lang": "ar",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8352,7 +8352,7 @@
         "name": "Team X",
         "lang": "ar",
         "id": "4110737012647435874",
-        "baseUrl": "https://teamxnovel.com",
+        "baseUrl": "https://teamoney.site",
         "versionId": 1
       }
     ]
@@ -8934,6 +8934,26 @@
         "id": "8088090686762347480",
         "baseUrl": "https://assortedscans.com",
         "versionId": 3
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Astra Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.astrascans",
+    "apk": "tachiyomi-en.astrascans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Astra Scans",
+        "lang": "en",
+        "id": "8151430323343538599",
+        "baseUrl": "https://astrascans.org",
+        "versionId": 1
       }
     ]
   },
@@ -11426,6 +11446,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: 18Kami",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kami18",
+    "apk": "tachiyomi-en.kami18-v1.4.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "18Kami",
+        "lang": "en",
+        "id": "2702386100118752161",
+        "baseUrl": "https://18kami.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: keenspot",
     "pkg": "eu.kanade.tachiyomi.extension.en.keenspot",
     "apk": "tachiyomi-en.keenspot-v1.4.3.apk",
@@ -11568,10 +11608,10 @@
   {
     "name": "Tachiyomi: Koharu",
     "pkg": "eu.kanade.tachiyomi.extension.en.koharu",
-    "apk": "tachiyomi-en.koharu-v1.4.4.apk",
+    "apk": "tachiyomi-en.koharu-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11908,10 +11948,10 @@
   {
     "name": "Tachiyomi: Lua Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luascans",
-    "apk": "tachiyomi-en.luascans-v1.4.34.apk",
+    "apk": "tachiyomi-en.luascans-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11920,7 +11960,7 @@
         "name": "Lua Scans",
         "lang": "en",
         "id": "7741623582242119453",
-        "baseUrl": "https://luacomic.com",
+        "baseUrl": "https://luacomic.net",
         "versionId": 1
       }
     ]
@@ -12848,10 +12888,10 @@
   {
     "name": "Tachiyomi: Mangago",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangago",
-    "apk": "tachiyomi-en.mangago-v1.4.15.apk",
+    "apk": "tachiyomi-en.mangago-v1.4.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18502,10 +18542,10 @@
   {
     "name": "Tachiyomi: WebNovel",
     "pkg": "eu.kanade.tachiyomi.extension.en.webnovel",
-    "apk": "tachiyomi-en.webnovel-v1.4.11.apk",
+    "apk": "tachiyomi-en.webnovel-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25269,10 +25309,10 @@
   {
     "name": "Tachiyomi: MANGARAW+",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangarawplus",
-    "apk": "tachiyomi-ja.mangarawplus-v1.4.40.apk",
+    "apk": "tachiyomi-ja.mangarawplus-v1.4.41.apk",
     "lang": "ja",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25281,7 +25321,7 @@
         "name": "MANGARAW+",
         "lang": "ja",
         "id": "4024106071166095369",
-        "baseUrl": "https://mangarawpedia.com",
+        "baseUrl": "https://mangafenxi.net",
         "versionId": 1
       }
     ]
@@ -25522,26 +25562,6 @@
         "lang": "ja",
         "id": "7595224096258102519",
         "baseUrl": "https://weloma.art",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: RawMangas",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.rawmangas",
-    "apk": "tachiyomi-ja.rawmangas-v1.4.37.apk",
-    "lang": "ja",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "RawMangas",
-        "lang": "ja",
-        "id": "7855405611446100010",
-        "baseUrl": "https://raw-mangas.com",
         "versionId": 1
       }
     ]
@@ -25962,14 +25982,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki345.net",
+        "baseUrl": "https://manatoki347.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki345.com",
+        "baseUrl": "https://newtoki347.com",
         "versionId": 1
       }
     ]
@@ -29069,7 +29089,7 @@
         "name": "ReadManga",
         "lang": "ru",
         "id": "5",
-        "baseUrl": "https://readmanga.live",
+        "baseUrl": "https://1.readmanga.io",
         "versionId": 1
       }
     ]
@@ -31295,6 +31315,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Prunus Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.prunusscans",
+    "apk": "tachiyomi-tr.prunusscans-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Prunus Scans",
+        "lang": "tr",
+        "id": "5108984068740807235",
+        "baseUrl": "https://prunusscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Raindrop Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.raindropfansub",
     "apk": "tachiyomi-tr.raindropfansub-v1.4.30.apk",
@@ -31477,10 +31517,10 @@
   {
     "name": "Tachiyomi: Gri Melek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
-    "apk": "tachiyomi-tr.siyahmelek-v1.4.42.apk",
+    "apk": "tachiyomi-tr.siyahmelek-v1.4.43.apk",
     "lang": "tr",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31489,7 +31529,7 @@
         "name": "Gri Melek",
         "lang": "tr",
         "id": "6419959498055001014",
-        "baseUrl": "https://grimelek.org",
+        "baseUrl": "https://grimelek.mom",
         "versionId": 1
       }
     ]
@@ -32177,10 +32217,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.8.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32189,7 +32229,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung.life",
+        "baseUrl": "https://teamlanhlung.blog",
         "versionId": 1
       }
     ]
